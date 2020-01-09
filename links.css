@@ -1,0 +1,11 @@
+.close-links-modal {
+        color: rgb(255,0,0);
+        float: right;
+        font-size: 28px;
+        font-weight: bold;  
+        }
+        .close-links-modal:hover, .close-links-modal:focus, .close-books-modal:hover, .close-books-modal:focus {
+        color: #aaa;
+        text-decoration: none;
+        cursor: pointer;
+        }

@@ -1,0 +1,32 @@
+.modal-content {
+        background-color: rgb(255,255,255);
+        margin: 2% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+		height: 300%;
+        }
+
+.close-books-modal {
+        color: rgb(0,0,0);
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+		}
+
+.books {
+	color: rgb(0,128,128);
+}
+
+img  {
+	margin: 10px;
+	height: auto;
+	width: 300px;
+}
+
+button.about-books > span {
+		font-family: 'Acme',Sans-serif;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgb(0,0,0);
+		}
